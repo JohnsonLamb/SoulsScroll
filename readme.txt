@@ -43,3 +43,9 @@ How to keep the images uploaded on par with the website’s theme?
 
 How to deal with Undesirable images (porn, etc)?
 
+02-06-2016
+
+When uploading images it should be possible to say from which game they are from so that in the future the content can be separated by Game (demon souls, darks souls 1,2 & 3 and Bloodborne)
+
+Also, flavor text on the website should reflect the Game that is being viewed (Dark souls 2 - hollow, undead, Dark Souls 3 - ashen one, unkindled)
+
