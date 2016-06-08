@@ -49,3 +49,13 @@ When uploading images it should be possible to say from which game they are from
 
 Also, flavor text on the website should reflect the Game that is being viewed (Dark souls 2 - hollow, undead, Dark Souls 3 - ashen one, unkindled)
 
+08-jun-2016
+
+How to keep the images uploaded on par with the website’s theme?
+
+After pressing upload: 
+-use a small quiz with soulsborne related questions and give a score at the end. 
+-have the option to opt out of the quiz.
+-after opting out, if it's the first time uploading, ask more questions.
+	- this means using cookies, if a account system is not set up.
+
